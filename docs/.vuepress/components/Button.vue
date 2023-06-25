@@ -17,9 +17,8 @@ import {
   defineEmits,
 } from "vue";
 import { useRoute, useRouter } from "vue-router";
-import kaloneUtils from "@/utils/kaloneUtils";
 export default {
-  name: "",
+  name: "Button",
   components: {},
 };
 </script>

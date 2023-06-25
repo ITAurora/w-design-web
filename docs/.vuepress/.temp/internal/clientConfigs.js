@@ -1,12 +1,12 @@
-import clientConfig0 from 'C:/Users/MisteryZhang/Desktop/新建文件夹/test/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
-import clientConfig1 from 'C:/Users/MisteryZhang/Desktop/新建文件夹/test/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
-import clientConfig2 from 'C:/Users/MisteryZhang/Desktop/新建文件夹/test/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
-import clientConfig3 from 'C:/Users/MisteryZhang/Desktop/新建文件夹/test/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
-import clientConfig4 from 'C:/Users/MisteryZhang/Desktop/新建文件夹/test/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
-import clientConfig5 from 'C:/Users/MisteryZhang/Desktop/新建文件夹/test/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
-import clientConfig6 from 'C:/Users/MisteryZhang/Desktop/新建文件夹/test/node_modules/@vuepress/theme-default/lib/client/config.js'
-import clientConfig7 from 'C:/Users/MisteryZhang/Desktop/新建文件夹/test/docs/.vuepress/.temp/register-components/clientConfig.66b9abf9.js'
-import clientConfig8 from 'C:/Users/MisteryZhang/Desktop/新建文件夹/test/docs/.vuepress/client.js'
+import clientConfig0 from 'C:/Users/dln/Desktop/w-design-web/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
+import clientConfig1 from 'C:/Users/dln/Desktop/w-design-web/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
+import clientConfig2 from 'C:/Users/dln/Desktop/w-design-web/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
+import clientConfig3 from 'C:/Users/dln/Desktop/w-design-web/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
+import clientConfig4 from 'C:/Users/dln/Desktop/w-design-web/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
+import clientConfig5 from 'C:/Users/dln/Desktop/w-design-web/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
+import clientConfig6 from 'C:/Users/dln/Desktop/w-design-web/node_modules/@vuepress/theme-default/lib/client/config.js'
+import clientConfig7 from 'C:/Users/dln/Desktop/w-design-web/docs/.vuepress/.temp/register-components/clientConfig.710c0db3.js'
+import clientConfig8 from 'C:/Users/dln/Desktop/w-design-web/docs/.vuepress/client.js'
 
 export const clientConfigs = [
   clientConfig0,
