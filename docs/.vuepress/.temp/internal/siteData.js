@@ -1,14 +1,1 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"m-baseui\",\"description\":\"m-baseui Component library with Vue3\",\"head\":[],\"locales\":{}}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSiteData) {
-    __VUE_HMR_RUNTIME__.updateSiteData(siteData)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ siteData }) => {
-    __VUE_HMR_RUNTIME__.updateSiteData(siteData)
-  })
-}
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"w-design\",\"description\":\"w-design Component library with Vue3\",\"head\":[],\"locales\":{}}")

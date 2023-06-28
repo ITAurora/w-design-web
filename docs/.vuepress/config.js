@@ -7,8 +7,8 @@ import sidebar from './config/sidebar'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { path } from '@vuepress/utils'
 module.exports = {
-    title: 'm-baseui',
-    description: 'm-baseui Component library with Vue3',
+    title: 'w-design',
+    description: 'w-design Component library with Vue3',
     base: '/', // 这是部署到github相关的配置
     markdown: {
         code: {
