@@ -9,7 +9,7 @@ import { path } from '@vuepress/utils'
 module.exports = {
     title: 'w-design',
     description: 'w-design Component library with Vue3',
-    base: '/', // 这是部署到github相关的配置
+    base: '/WDesignWeb/', // 这是部署到github相关的配置
     markdown: {
         code: {
             lineNumbers: false // 代码块显示行号
