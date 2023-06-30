@@ -1,7 +1,7 @@
 import { defineClientConfig  } from '@vuepress/client'
  
 // 导入组件库
-import Button from './components/Button.vue'
+import Button from './components/Button/Button.vue'
  
 export default defineClientConfig ({
   enhance({ app }){
