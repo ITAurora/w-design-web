@@ -21,6 +21,6 @@ module.exports = [
     },
     {
       text: 'github',
-      link: 'https://github.com/m-baseui/m-baseui'
+      link: 'https://github.com/ITAurora/w-design-web'
     }
   ]
