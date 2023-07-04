@@ -8,11 +8,19 @@ import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 import { path } from "@vuepress/utils";
 import vuepressPluginAnchorRight from "vuepress-plugin-anchor-right";
 // const { searchPlugin } = require('@vuepress/plugin-search')
-import searchPlugin from '@vuepress/plugin-search';
+import searchPlugin from "@vuepress/plugin-search";
 module.exports = {
   title: "w-design",
   description: "w-design Component library with Vue3",
-  base: "/WDesignWeb/", // 这是部署到github相关的配置
+  base: "/WDesignWeb/",
+  // /WDesignWeb/
+  // 这是部署到github相关的配置
+  head: [
+    // 设置 favor.ico，.vuepress/public 下
+    [
+        'link', { rel: 'icon', href: 'https://w.wallhaven.cc/full/e7/wallhaven-e7jj6r.jpg' }// /images/logo.png
+    ]
+],
   markdown: {
     code: {
       lineNumbers: false, // 代码块显示行号
