@@ -11,6 +11,8 @@ export const pagesComponents = {
   "v-9a414c64": defineAsyncComponent(() => import(/* webpackChunkName: "v-9a414c64" */"C:/Users/dln/Desktop/w-design-web/docs/.vuepress/.temp/pages/componentDocs/Install.html.vue")),
   // path: /componentDocs/Layout.html
   "v-3b097782": defineAsyncComponent(() => import(/* webpackChunkName: "v-3b097782" */"C:/Users/dln/Desktop/w-design-web/docs/.vuepress/.temp/pages/componentDocs/Layout.html.vue")),
+  // path: /componentDocs/Tabs.html
+  "v-2b72f46b": defineAsyncComponent(() => import(/* webpackChunkName: "v-2b72f46b" */"C:/Users/dln/Desktop/w-design-web/docs/.vuepress/.temp/pages/componentDocs/Tabs.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/dln/Desktop/w-design-web/docs/.vuepress/.temp/pages/404.html.vue")),
 }

@@ -1,4 +1,4 @@
-module.exports = [
+let navbar = [
     {
       text: '首页',
       link: '/'
@@ -21,6 +21,7 @@ module.exports = [
     },
     {
       text: 'github',
-      link: 'https://github.com/ITAurora/w-design-web'
+      link: 'https://github.com/m-baseui/m-baseui'
     }
   ]
+  export default navbar

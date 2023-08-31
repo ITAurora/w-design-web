@@ -1,16 +1,4 @@
-# Input输入框
- 
-#### 常用 Input 输入框
- 
-## 基本使用
- 
-#### 带有导航的Input
-<br/>
-<Input-TypeSearch></Input-TypeSearch>
-<br/>
-<details>
-
-```vue
+<!-- test  -->
 <template>
   <TypeSearch
     :typeList="typeList"
@@ -28,7 +16,7 @@ const typeList = [
   { name: "选项2", value: 2 },
   { name: "选项3", value: 3 },
 ];
-const activeValue = ref(0);
+const activeValue = ref(1);
 const changeClick = (event, item, index) => {
   console.log(event, item, index);
 };
@@ -37,7 +25,3 @@ const searchClick = (event, value) => {
   console.log(event, value);
 };
 </script>
-```
-<summary>查看代码</summary>
-</details>
-<br/>

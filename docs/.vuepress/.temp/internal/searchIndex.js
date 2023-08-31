@@ -7,7 +7,14 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Input 输入框",
+    "title": "",
+    "headers": [],
+    "path": "/componentDocs/Button.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Input输入框",
     "headers": [
       {
         "level": 2,
@@ -17,13 +24,6 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/componentDocs/Button.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
     "path": "/componentDocs/Input.html",
     "pathLocale": "/",
     "extraFields": []
@@ -76,6 +76,21 @@ export const searchIndex = [
     "title": "",
     "headers": [],
     "path": "/componentDocs/Layout.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tabs导航栏",
+    "headers": [
+      {
+        "level": 2,
+        "title": "基本使用",
+        "slug": "基本使用",
+        "link": "#基本使用",
+        "children": []
+      }
+    ],
+    "path": "/componentDocs/Tabs.html",
     "pathLocale": "/",
     "extraFields": []
   },

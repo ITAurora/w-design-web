@@ -1,4 +1,4 @@
-module.exports = [
+let sidebar = [
     {
       text: '快速上手',
       children: [
@@ -27,7 +27,12 @@ module.exports = [
         {
           text: 'Input 组件',
           link: '/componentDocs/Input'
+        },
+        {
+          text: '导航栏 组件',
+          link: '/componentDocs/Tabs'
         }
       ]
     }
   ]
+  export default sidebar

@@ -33,7 +33,7 @@ app<span class="token punctuation">.</span><span class="token function">mount</s
 <h2 id="按需引用" tabindex="-1"><a class="header-anchor" href="#按需引用" aria-hidden="true">#</a> 按需引用</h2>
 <h4 id="您可以根据个人需要使用按需引用组件-按需引用时不需要使用-app-use-方法注册。" tabindex="-1"><a class="header-anchor" href="#您可以根据个人需要使用按需引用组件-按需引用时不需要使用-app-use-方法注册。" aria-hidden="true">#</a> 您可以根据个人需要使用按需引用组件，按需引用时不需要使用 <code v-pre>app.use()</code> 方法注册。</h4>
 <div class="language-javascript" data-ext="js"><pre v-pre class="language-javascript"><code><span class="token comment">/*js*/</span>
-<span class="token keyword">import</span> <span class="token punctuation">{</span> wButton <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"w-design"</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> <span class="token punctuation">{</span> w<span class="token operator">-</span>button <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"w-design"</span><span class="token punctuation">;</span>
 </code></pre></div><br/>
 <div class="language-html" data-ext="html"><pre v-pre class="language-html"><code><span class="token comment">&lt;!-- html --></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>w-button</span><span class="token punctuation">></span></span>点击<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>w-button</span><span class="token punctuation">></span></span>

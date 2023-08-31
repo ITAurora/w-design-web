@@ -57,7 +57,7 @@ createApp(App).use(Wdesign).mount("#app");
 
 ```js
 /*js*/
-import { wButton } from "w-design";
+import { w-button } from "w-design";
 ```
 
 <br/>

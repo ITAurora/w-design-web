@@ -15,7 +15,8 @@
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vuepress-plugin-anchor-right": "^0.0.1-beta.18",
-    "vuex": "^4.0.0"
+    "vuex": "^4.0.0",
+    "w-design": "^1.0.12"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -25,7 +26,7 @@
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
-    "@vuepress/plugin-register-components": "^2.0.0-beta.63",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.67",
     "@vuepress/plugin-search": "^2.0.0-beta.63",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
