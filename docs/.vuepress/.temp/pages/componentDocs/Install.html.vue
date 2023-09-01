@@ -38,6 +38,10 @@ app<span class="token punctuation">.</span><span class="token function">mount</s
 <div class="language-html" data-ext="html"><pre v-pre class="language-html"><code><span class="token comment">&lt;!-- html --></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>w-button</span><span class="token punctuation">></span></span>点击<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>w-button</span><span class="token punctuation">></span></span>
 </code></pre></div><br/>
-</div></template>
+<h2 id="贡献者" tabindex="-1"><a class="header-anchor" href="#贡献者" aria-hidden="true">#</a> 贡献者</h2>
+<div>
+  <img  style='width:50px;border-radius: 9999px;vertical-align: middle;margin-right: 10px;border: 1px ghostwhite solid;' src="https://avatars.githubusercontent.com/u/78008994?v=4"/>
+  <a href="https://github.com/ITAurora">Win</a>
+</div></div></template>
 
 

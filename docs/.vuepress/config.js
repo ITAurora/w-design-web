@@ -26,8 +26,8 @@ module.exports = {
     // 在这里进行配置
     navbar,
     sidebar,
-    lastUpdated:true,
-    contributors:true,
+    lastUpdated:false,
+    contributors:false,
   }),
   plugins: [
     registerComponentsPlugin({

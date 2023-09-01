@@ -8,7 +8,15 @@ export const searchIndex = [
   },
   {
     "title": "",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "贡献者",
+        "slug": "贡献者",
+        "link": "#贡献者",
+        "children": []
+      }
+    ],
     "path": "/componentDocs/Button.html",
     "pathLocale": "/",
     "extraFields": []
@@ -21,6 +29,13 @@ export const searchIndex = [
         "title": "基本使用",
         "slug": "基本使用",
         "link": "#基本使用",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "贡献者",
+        "slug": "贡献者",
+        "link": "#贡献者",
         "children": []
       }
     ],
@@ -66,6 +81,13 @@ export const searchIndex = [
         "slug": "按需引用",
         "link": "#按需引用",
         "children": []
+      },
+      {
+        "level": 2,
+        "title": "贡献者",
+        "slug": "贡献者",
+        "link": "#贡献者",
+        "children": []
       }
     ],
     "path": "/componentDocs/Install.html",
@@ -74,7 +96,15 @@ export const searchIndex = [
   },
   {
     "title": "",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "贡献者",
+        "slug": "贡献者",
+        "link": "#贡献者",
+        "children": []
+      }
+    ],
     "path": "/componentDocs/Layout.html",
     "pathLocale": "/",
     "extraFields": []
@@ -87,6 +117,13 @@ export const searchIndex = [
         "title": "基本使用",
         "slug": "基本使用",
         "link": "#基本使用",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "贡献者",
+        "slug": "贡献者",
+        "link": "#贡献者",
         "children": []
       }
     ],
@@ -102,3 +139,16 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}

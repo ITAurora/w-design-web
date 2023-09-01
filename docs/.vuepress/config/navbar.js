@@ -15,13 +15,13 @@ let navbar = [
         },
         {
           text: '博客园',
-          link: 'https://www.cnblogs.com/wangdashi/'
+          link: 'https://www.cnblogs.com/'
         }
       ]
     },
     {
       text: 'github',
-      link: 'https://github.com/m-baseui/m-baseui'
+      link: 'https://github.com/ITAurora/w-design'
     }
   ]
   export default navbar
