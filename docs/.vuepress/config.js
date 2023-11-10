@@ -8,7 +8,7 @@ import searchPlugin from "@vuepress/plugin-search";
 module.exports = {
   title: "w-design",
   description: "w-design Component library with Vue3",
-  base: "/WDesignWeb/",
+  base: "/",
   // /WDesignWeb/
   // 这是部署到github相关的配置
   head: [
